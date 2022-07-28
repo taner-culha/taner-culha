@@ -20,4 +20,4 @@ Skills: C# / PHP / MySQL / Bootstrap / jQuery / HTML / CSS / ASP.NET
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taner-culha&show_icons=true&theme=radical) 
 
-![Profile views](https://gpvc.arturio.dev/taner-culha&show_icons=true&theme=radical) 
+![Profile views](https://gpvc.arturio.dev/taner-culha) 
