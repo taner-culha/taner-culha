@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Taner.
 #### I 'm a Software Developer
 
-Skills: C# / PHP / MySQL / MSQL / Bootstrap / jQuery / HTML / CSS / ASP.NET
+Skills: C# / PHP / MySQL / MSSQL / Bootstrap / jQuery / HTML / CSS / ASP.NET
 
 - 🔭 I’m currently working on PHP and C# 
 - 🌱 I’m currently learning Symfony and Unity 
