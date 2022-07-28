@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Taner.
-#### I am a Software Developer
+#### I 'm a Software Developer
 
 Skills: C# / PHP / MySQL / Bootstrap / jQuery / HTML / CSS / ASP.NET
 
