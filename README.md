@@ -4,7 +4,7 @@
 Skills: C# / PHP / MySQL / MSSQL / Rest.API / PDO /Bootstrap / jQuery / HTML / CSS / ASP.NET
 
 - 🔭 I’m currently working on PHP and C# 
-- 🌱 I’m currently learning Symfony and Unity 
+- 🌱 I’m currently learning Symfony, React and Unity 
 - 📫 How to reach me: info@tanerculha.com 
 
 
